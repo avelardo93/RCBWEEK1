@@ -7,23 +7,27 @@ body {
  	margin: 0;
  	padding: 0;
  	background: #efeee7;
-	font-size: 18px;
- 	line-height: 150%;
- 	font-family: "Georgia",Times New Roman,Times,serif;
+	font-size: 16px;
+	line-height: 24px;
+ 	font-family: 'PT Serif', serif;
  	color: #333333;
  }
 header {background-color: #d21034}
 
 h1 {background-color: black;
-	font: 20px;
+	font: 30px;
+	line-height: 45px;
 	color: white;
 	padding: 16px;
 	text-align: center;
+	font-family: 'PT Serif', serif;
 
 }
 
 h2 {
-	font: 20px;
+	font: 25px;
+	line-height: 37.5px;
+	font-family: 'Dosis', sans-serif;
 }
 
 .container {width: 1024px;
